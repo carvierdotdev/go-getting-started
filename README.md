@@ -2,7 +2,7 @@
 
 - [x] Tutorial: Get started with Go
 - [ ] Tutorial: Create a Go module
-  - [ ] Create a module
+  - [x] Create a module
   - [ ] Call your code from another module
   - [ ] Return and handle an error
   - [ ] Return a random greeting
